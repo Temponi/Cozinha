@@ -1,0 +1,38 @@
+{
+    "ingredientes": [
+        {"nome": "batata",
+         "quantidade": 150},
+        {"nome": "cenoura",
+         "quantidade": 100},
+        {"nome": "carne",
+         "quantidade": 1000}
+    ],
+
+    "receitas": [
+        {"nome": "Salada",
+         "ingredientes": [
+            {"nome": "batata",
+             "quantidade": 100},
+            {"nome": "cenoura",
+             "quantidade": 100}
+         ],
+         "descricao": "lorem ipsum"},
+         {"nome": "Ensopado",
+            "ingredientes": [
+               {"nome": "batata",
+                "quantidade": 100},
+               {"nome": "cenoura",
+                "quantidade": 50},
+               {"nome": "carne",
+                "quantidade": 1000}
+            ],
+            "descricao": "lorem ipsum"},
+         {"nome": "Churrasco",
+          "ingredientes": [
+                   {"nome": "carne",
+                    "quantidade": 1500}
+                ],
+                "descricao": "lorem ipsum"}
+    ]
+    
+}
